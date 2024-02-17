@@ -7,3 +7,5 @@ Criar o projeto
 ### composer create-project --prefer-dist laravel/laravel lara
 
 ### C:\Users\lfons\OneDrive\Área de Trabalho\lara\lara\public>php -S localhost:8000
+
+### php artisan serve
